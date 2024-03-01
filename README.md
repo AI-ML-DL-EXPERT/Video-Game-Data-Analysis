@@ -51,4 +51,4 @@ Our analysis covers the following key areas:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome!.
