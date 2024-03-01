@@ -32,6 +32,8 @@ To get started with this project, follow these steps:
 ## **Clone the Repository:**
    ```bash
    git clone https://github.com/AI-ML-DL-EXPERT/Video-Game-Data-Analysis.git
+   ```
+
 
 ## Data Sources
 
