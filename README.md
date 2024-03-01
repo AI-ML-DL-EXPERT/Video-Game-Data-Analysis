@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
 
 ## Data Sources
 
-The data used in this project is sourced from [https://www.kaggle.com/datasets/darianogina/best-video-games-of-all-time-metacritic](Video-Game-Analysis-Dataset).
+The data used in this project is sourced from [Video-Game-Analysis-Dataset](https://www.kaggle.com/datasets/darianogina/best-video-games-of-all-time-metacritic).
 
 ## Analysis
 
